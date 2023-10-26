@@ -1,7 +1,6 @@
 # data_entry_automation_bot
 Scrapes real estate data from the website zillow, entries the data on a pre-made google form. Made with BeautifulSoup and Selenium.
 
-### 441 Day 53 Goals_ what you will make by the end of the day
 
 In this project, we will try to find apartments in San Francisco, CA. 
 We will find apartments that fit our criteria from Zillow.
